@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 150px;
+  }
+
+header>p{
+    text-align: center;
+    margin-top: 3px;
+    color: black;
+    font-size: 20px;
+    width: 100%;
+}
+
+.box{
+    background-color: rgb(218, 216, 216);
+    width: 95%; /*1300px;*/
+    height: 110px;
+    margin: auto;   
+}
+
+.button_one{
+    display:inline-block;
+    background: rgb(241, 239, 239);
+    font-size: 18px;
+    margin-left: 450px;
+    width: 190px; 
+    height: 30px;     
+}
+.button_two{
+    display:inline-block;
+    background: rgb(241, 239, 239);
+    font-size: 18px;
+    margin-left: 10px;
+    width: 190px;
+    height: 30px;     
+}
+
+.inp{
+    width: 37%;
+    height: 25px;
+    margin-left: 30%;
+    
+}
+
+.blue_box{
+    display: flex;
+    background-color: rgb(98, 230, 230);
+    width: 37%;
+    height: 100px;
+    margin-left: 33px;
+    position: absolute;
+}
+
+h3{
+    margin: auto;
+    margin-top: 10px;
+    font-size: 18px;
+    color: black;
+}
+
+.link{
+    margin: auto;
+    position: absolute;
+    display:flex;
+    margin-top: 30px;
+    margin-left: 195px;
+}
+.link_two{
+    margin: auto;
+    margin-left: 208px;
+    position: absolute;
+    display:flex;
+    text-align: center;
+    margin-top: 50px;
+}
+.blue_box_two{
+    display: flex;
+    background-color: rgb(83, 194, 194);
+    width: 20%;
+    height: 100px;
+    margin-left: 545px;
+    position: absolute;
+}
+.a_link{
+    margin: auto;
+    margin-left: 125px;
+    position: absolute;
+    display: flex;
+    text-align: center;
+    margin-top: 8px;
+}
+.b_link{
+    margin: auto;
+    margin-left: 95px;
+    position: absolute;
+    display: flex;
+    text-align: center;
+    margin-top: 26px;
+}
+.c_link{
+    margin: auto;
+    margin-left: 96px;
+    position: absolute;
+    display: flex;
+    text-align: center;
+    margin-top: 45px;
+}
+.d_link{
+    margin: auto;
+    margin-left: 94px;
+    position: absolute;
+    display: flex;
+    text-align: center;
+    margin-top: 65px;
+}
+.blue_box_input{
+    display: block;
+    background-color: rgb(101, 172, 172);
+    width: 36.5%;
+    height: 100px;
+    margin-left: 824px;
+    position: absolute;
+}
+.bow{
+text-align: center;
+margin-top: 4px;
+}
+div>p{
+   /* margin: auto;*/
+    margin-left: 140px;
+    width: 40%;
+    height:10px;
+    margin-top: 30px;
+}
+.button_sub{
+    width: 20%;
+    height: 25px;
+    margin-left: 140px;
+}
+footer{
+    position: absolute;
+    background: #fff;
+    color: black;
+    padding: 20px;
+    width: 50%;
+    height: 100px;
+    margin-top: 128px;
+    margin-left: 550px;
+}
+.footer style{
+    text-align: center;
+    width: 50%;    
+    font-size: 16px; 
+    margin-bottom: 41px;
+    margin-top: 40px;   
+}
